@@ -1,0 +1,12 @@
+{
+  "name": "101503637_comp3123_lab-test-1",
+  "version": "1.0.0",
+  "description": "COMP3123 Lab test1",
+  "license": "ISC",
+  "author": "Judene Brown",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
